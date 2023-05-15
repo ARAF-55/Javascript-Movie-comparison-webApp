@@ -1,0 +1,12 @@
+So, mainly-
+
+1. This app is a webapp mainly based on fetching api. with axios api fetching we are 
+fetching movie database data from the server and using it to show many kinds of posters, movie attributes and other kinds of comparisons.
+
+2. We use bulma css framework in here.
+
+3. There is a lot of work done in the refactoring area, to make the code more usable for other kind of similar projects and also making the code more readable.
+   The code is made keeping in mid that it should have very less kind of coupling between the HTML file and the Javascript file. and also different total different kind of 
+   working functions are pretty much defined onn their own so, that depending on one and another is reduced pretty much, so that changing in one thing can easily be implemented by structureing that one function and 
+   taking consideration work on on that function calling on the other functions. 
+   
